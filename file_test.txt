@@ -1,0 +1,77 @@
+0 activateInstr piano bang;
+0 activateInstr piano hold;
+
+200 bang0 Ab3;
+
+200 bang1 A3;
+
+200 bang2 B3;
+
+200 bang3 Db4;
+
+200 bang4 D4;
+
+200 bang5 E4;
+
+200 bang6 Gb4;
+
+200 hold0 Ab4;
+
+200 rels0 Ab4;
+0 hold1 A4;
+
+200 rels1 A4;
+0 hold2 B4;
+
+200 rels2 B4;
+0 hold3 Db5;
+
+200 rels3 Db5;
+0 hold4 D5;
+
+200 rels4 D5;
+0 hold5 E5;
+
+200 rels5 E5;
+0 hold6 Gb5;
+
+200 rels6 Gb5;
+
+400 activateInstr string bang;
+0 activateInstr brass hold;
+
+200 bang0 Ab3;
+
+200 bang1 A3;
+
+200 bang2 B3;
+
+200 bang3 Db4;
+
+200 bang4 D4;
+
+200 bang5 E4;
+
+200 bang6 Gb4;
+
+200 hold0 Ab4;
+
+200 rels0 Ab4;
+0 hold1 A4;
+
+200 rels1 A4;
+0 hold2 B4;
+
+200 rels2 B4;
+0 hold3 Db5;
+
+200 rels3 Db5;
+0 hold4 D5;
+
+200 rels4 D5;
+0 hold5 E5;
+
+200 rels5 E5;
+0 hold6 Gb5;
+
+200 rels6 Gb5;

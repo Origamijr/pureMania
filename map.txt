@@ -1,0 +1,137 @@
+125 hold0 Bb3;
+25 bang1 G3;
+25 bang2 Bb3;
+25 bang3 G4;
+300 bang5 A4;
+300 bang6 Bb4;
+0 bang4 Bb3;
+
+300 hold2 F4;
+600 bang1 E4;
+0 rels2 F4;
+
+300 hold1 A3;
+0 hold5 A4;
+0 bang3 E4;
+0 rels0 Bb3;
+600 bang3 F4; 
+0 rels1 A3;
+0 rels5 A4;
+
+300 bang0 F3;
+0 bang2 A3;
+0 bang4 C4;
+0 bang6 F4;
+450 bang3 F3;
+0 bang1 C3;
+0 bang5 A3;
+150 bang4 G3;
+150 bang5 A3;
+
+150 bang0 F3;
+0 bang2 A3;
+0 bang4 C4;
+0 bang6 F4;
+150 bang3 F3;
+150 bang6 A3;
+0 bang2 F3;
+150 bang3 F3;
+150 bang4 G4;
+0 bang0 F3;
+
+250 bang4 Bb3;
+50 bang1 G3;
+0 hold5 C4;
+450 bang0 F3;
+150 bang1 G3;
+150 bang2 A3;
+
+150 hold0 A4;
+0 bang4 A3;
+0 rels5 C4;
+150 bang3 A3;
+150 hold2 C4;
+
+600 hold6 C5;
+0 hold4 A4;
+0 rels0 A4;
+0 rels2 C4;
+300 hold3 Bb4;
+0 hold5 G4;
+0 rels4 A4;
+0 rels6 C5;
+300 hold2 A4;
+0 hold4 F4;
+0 rels3 Bb4;
+0 rels5 G4;
+
+250 bang1 F4;
+50 hold0 G4;
+0 hold3 E4;
+0 rels2 A4;
+0 rels4 F4;
+300 hold2 F4;
+0 rels3 E4;
+300 bang4 G4;
+0 rels2 F4;
+
+300 hold4 F5;
+0 hold2 G3;
+300 rels4 F5;
+300 bang4 G5;
+150 bang6 C6;
+
+150 hold5 Bb5;
+0 rels0 G4;
+0 rels2 G3;
+300 hold4 A5;
+0 rels5 Bb5;
+300 hold3 F5;
+0 rels4 A5;
+
+300 hold2 G4;
+0 hold6 E5;
+0 rels3 F5;
+300 hold1 E4;
+0 hold5 C5;
+0 rels2 G4;
+0 rels6 E5;
+300 hold0 C4;
+0 hold4 A4;
+0 rels1 E4;
+0 rels5 C5;
+
+300 bang6 C5;
+0 bang2 C4;
+0 rels0 F3;
+0 rels4 F4;
+150 bang5 F4; 
+150 bang4 E4;
+150 bang3 C4;
+150 bang2 A3;
+150 bang1 G3;
+
+150 hold0 F3;
+0 bang5 C4;
+150 bang3 F3;
+150 bang2 E3;
+150 bang3 F3;
+150 bang1 C3;
+150 bang2 E3;
+
+150 hold3 F3;
+0 rels0 F3;
+600 bang0 E4;
+75 bang1 F4;
+75 bang2 G4;
+75 bang4 C5;
+
+75 hold5 E5;
+600 bang6 F5;
+0 rels5 E5;
+
+300 bang6 F5;
+0 rels3 F3;
+600 bang5 E5;
+
+300 bang4 D5;
